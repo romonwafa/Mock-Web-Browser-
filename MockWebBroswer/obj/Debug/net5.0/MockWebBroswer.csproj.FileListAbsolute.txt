@@ -1,0 +1,16 @@
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\MockWebBroswer.exe
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\MockWebBroswer.deps.json
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\MockWebBroswer.runtimeconfig.json
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\MockWebBroswer.runtimeconfig.dev.json
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\MockWebBroswer.dll
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\ref\MockWebBroswer.dll
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\bin\Debug\net5.0\MockWebBroswer.pdb
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.AssemblyInfo.cs
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.dll
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\ref\MockWebBroswer.dll
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.pdb
+C:\Users\John\Desktop\2020H\Assn 1\MockWebBroswer\obj\Debug\net5.0\MockWebBroswer.genruntimeconfig.cache
